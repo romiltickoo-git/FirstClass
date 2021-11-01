@@ -1,0 +1,50 @@
+{
+    "Purchase" : [
+                              {
+                                    "Ebeln"     : "1",
+                                    "Menge"     : 98,
+                                    "Netpr"     : 100,
+                                    "Matnr"     : "MAT1",
+                                    "POStatus"  : "CONF",
+                                    "Waers"     : "INR"
+                               },
+                               {
+                                    "Ebeln"     : "2",
+                                    "Menge"     : 56,
+                                    "Netpr"     : 20,
+                                    "Matnr"     : "MAT2",
+                                    "POStatus"  : "CONF",
+                                    "Waers"     : "INR"
+                               },
+                               {
+                                    "Ebeln"     : "3",
+                                    "Menge"     : 45,
+                                    "Netpr"     : 150,
+                                    "Matnr"     : "MAT3",
+                                    "POStatus"  : "CONF",
+                                    "Waers"     : "INR"
+                               },
+                               {
+                                    "Ebeln"     : "4",
+                                    "Menge"     : 134,
+                                    "Netpr"     : 90,
+                                    "Matnr"     : "MAT4",
+                                    "POStatus"  : "OPEN",
+                                    "Waers"     : "INR"
+                               },
+
+                               {
+                                    "Ebeln"     : "5",
+                                    "Menge"     : 10,
+                                    "Netpr"     : 150,
+                                    "Matnr"     : "MAT5",
+                                    "POStatus"  : "PEND",
+                                    "Waers"     : "INR"
+                               }
+
+                 ]
+
+                 
+
+
+}
